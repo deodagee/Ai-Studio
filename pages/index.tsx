@@ -58,7 +58,7 @@ export default function Home() {
     <div className={styles.pagefonts}>
       <main
         key={"component1"}
-        className={`landscape:overflow-y-hidden landscape:max-h-screen landscape:relative component1_child relative min-h-screen select-none overflow-y-hidden text-white antialiased`}
+        className={` landscape:max-h-screen landscape:relative component1_child relative min-h-[120vh] select-none  text-white antialiased`}
       >
         <AnimatePresence>
           <BackgroundImage
@@ -93,7 +93,7 @@ export default function Home() {
               <div
               
                 key={"element_Header_Slides"}
-                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 pb-20 md:justify-center md:p-5 mb-9 overflow-x-hidden md:overflow-y-hidden"              >
+                className="col-span-6 flex h-full flex-1 flex-col justify-start p-5 pb-20 md:justify-center md:p-5 mb-9 overflow-x-hidden  overflow-y-hidden" >
               <div className={styles.upnext}> Up Next..</div>
 
                 <Slides data={data} />
