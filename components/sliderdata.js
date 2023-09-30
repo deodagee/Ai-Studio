@@ -25,7 +25,7 @@ export const sliderData = [
       features: "Movies:  Lois and Clark: The New Adventures of Superman (1993) - (1997), Smallville Season-10 (2001) - (2011), Justice League: Crisis on Two Earths (2010), All-Star Superman (2011) ",
     },
     {
-      img: "/5.png",
+      img: "/5.jpg",
       name: "Rapunzel ",
       role:
         "Rapunzel is the “Maiden in the Tower”. She is often portrayed as a light deity that is trapped, and then rescued; brought up in an isolated tower that can only be accessed by climbing her unnaturally long hair.",
@@ -39,7 +39,7 @@ export const sliderData = [
       features: "Movies: The Little Mermaid (1989), The Little Mermaid (TV series) (1992), The Little Mermaid II: Return to the Sea (2000), The Little Mermaid: Ariel's Beginning (2008) ",
     },
     {
-      img: "/7.png",
+      img: "/7.jpg",
       name: "Helen Parr",
       role:
         "Helen Parr (Born Truax), also known as Elastigirl and Mrs. Incredible, is a fictional superhero who appears in Pixar's animated superhero film The Incredibles (2004) and its sequel Incredibles 2 (2018). Voiced by actress Holly Hunter.",
